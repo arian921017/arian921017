@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Passionate about Web3
+- Passionate about cutting-edge technology
 - Senior Software Engineer
 - Ex-Bybit | Ex-ANVO
 
