@@ -4,6 +4,11 @@
 - 🏠 Singapore
 - ✍️ Resume: https://arianshi.link
 - 💼 Open for exciting opportunities 🇸🇬
+- 🗂️ my work projects
+  - https://www.bybit.com
+  - https://www.bybit.com/en/wsot2022
+  - https://www.republik.gg
+  - https://market.republik.gg
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nginx,nodejs,postman)](https://skillicons.dev)
 
