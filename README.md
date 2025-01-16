@@ -9,16 +9,6 @@
   - https://www.bybit.com/en/wsot2022
   - https://www.republik.gg
   - https://market.republik.gg
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nginx,nodejs,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=java,scala,git,kafka,mongodb,redis,mysql)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,terraform,ansible,docker,kubernetes,prometheus,aws)](https://skillicons.dev)
-
-[![GitHub followers](https://img.shields.io/github/followers/arian921017?label=arian921017&style=social)](https://github.com/arian921017) &nbsp;
-[![Linkedin Profile](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/arianshi/)
-
 ---
 
 <h2>🏆 Github Profile Trophy </h2>
