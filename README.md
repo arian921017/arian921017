@@ -5,9 +5,10 @@
 - ✍️ Resume: https://arianshi.link
 - 💼 Open for exciting opportunities 🇸🇬
 - 🗂️ my work projects
-  - https://www.bybit.com
+  - https://app.gomo.sg/
+  - https://www.bybit.com/en/referral
   - https://www.bybit.com/en/wsot2022
   - https://www.republik.gg
   - https://market.republik.gg
-  - https://app.gomo.sg/
+
 ---
